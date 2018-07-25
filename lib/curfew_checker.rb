@@ -39,7 +39,6 @@ elsif time =11
 else time < curfew
   puts "You have + #{curfew} - #{time} hours left"
 end 
-  
 end
 
 def platinum_curfew_checker(current_time, curfew_time)
