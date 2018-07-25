@@ -48,7 +48,10 @@ deluxe_curfew_checker (7)
 
 def platinum_curfew_checker(current_time, curfew_time)
   puts "What is your current time?"
-    platinum_curfew_checker(gets. to_i)
+    curfew_time (gets. to_i)
+  puts "What is your curfew?"
+    current_time (gets. to_i)
+  if current
 
     
 end
