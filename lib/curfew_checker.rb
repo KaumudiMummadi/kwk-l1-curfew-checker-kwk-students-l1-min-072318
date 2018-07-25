@@ -47,5 +47,5 @@ deluxe_curfew_checker (12)
 deluxe_curfew_checker (7)
 
 def platinum_curfew_checker(current_time, curfew_time)
-
+  
 end
