@@ -38,9 +38,8 @@ if time == 11
   puts "You're in trouble!"
 elsif time > 11
   puts "You're in trouble!"
-else
-    time < curfew 
-    puts "I have #{time} 
+else curfew-time > 0 
+  puts "You have #{curfew-time} hours left."
 end
 
 def platinum_curfew_checker(current_time, curfew_time)
